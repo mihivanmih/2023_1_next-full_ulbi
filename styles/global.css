@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    color: floralwhite;
+    text-decoration: none;
+}
+
+.navbar {
+    background: rgba(21, 73, 8, 0.85);
+    padding: 15px;
+}
