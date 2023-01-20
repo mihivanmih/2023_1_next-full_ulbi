@@ -13,3 +13,8 @@ a {
     background: rgba(21, 73, 8, 0.85);
     padding: 15px;
 }
+
+.vk {
+    width: 400px;
+    margin: 0 auto;
+}
